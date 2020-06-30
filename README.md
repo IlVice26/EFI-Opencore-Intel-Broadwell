@@ -1,4 +1,4 @@
-# EFI-Opencore Intel Broadwell
+# EFI Opencore Intel Broadwell
 Full EFI partition with Opencore for Broadwell platform (HD 5500)
 
 This platform is based on:
